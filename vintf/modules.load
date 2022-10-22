@@ -320,8 +320,6 @@ kernel/techpack/display/msm/msm_drm.ko
 kernel/techpack/video/msm/msm-vidc.ko
 kernel/net/bridge/netfilter/ebtables.ko
 kernel/net/bridge/netfilter/ebtable_broute.ko
-kernel/net/sctp/sctp.ko
-kernel/net/sctp/sctp_diag.ko
 kernel/net/qrtr/qrtr.ko
 kernel/net/qrtr/qrtr-smd.ko
 extra/ftm5.ko
